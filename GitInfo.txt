@@ -1,1 +1,7 @@
 The Things I learned about Gits
+Git is a version control system used to track changes in Open source code\
+I personally use Git Bash to use Gits
+with gits, you can make your own repositories, make different versions of them or go back to different versions of them, and you can store them locally to your computer, meaning you don't need an internet connection!
+Code like git config is used for configuration, git push pushes your repository to your github page, and git commits allows you to commit to the files that you choose
+Learning gits didn't take to long, as you can get the basics of it easily]
+I hope to use gits more in the future for my ambitous projects, thank you for Reading!

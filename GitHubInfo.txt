@@ -1,1 +1,7 @@
 # These are the things i learned about GitHub
+GitHub is the place to find or add on to peoples repositories, think of it as a joke hub, a joke maybe funny to you, so you upload it to the JokeHub, people may use your joke or add on to your joke
+GitHub can only be used with an internet connection
+GitHub can merge your local repositories with your remote repositories
+GitHub branches allows you to collaborate with people or add on to other peoples open source projects
+GiHub also Allows you to send pull requests
+I strive to learn more about GitHub and plan on making ambitous projects in the future, thank you for stopping in!
